@@ -1,0 +1,10 @@
+[package]
+name = "pjsua"
+version = "0.1.0"
+authors = ["Mathias Gottschlag <mgottschlag@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.49"
